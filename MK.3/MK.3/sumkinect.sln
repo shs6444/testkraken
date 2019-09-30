@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumkinect", "sumkinect\sumkinect.csproj", "{64DDC3D7-A917-4BE3-B3FD-17CB87E09012}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64DDC3D7-A917-4BE3-B3FD-17CB87E09012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64DDC3D7-A917-4BE3-B3FD-17CB87E09012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64DDC3D7-A917-4BE3-B3FD-17CB87E09012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64DDC3D7-A917-4BE3-B3FD-17CB87E09012}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30A89D6E-26DB-4224-ABB9-27E57051A2AC}
+	EndGlobalSection
+EndGlobal
