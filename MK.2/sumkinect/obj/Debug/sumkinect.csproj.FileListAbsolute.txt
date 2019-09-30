@@ -1,0 +1,272 @@
+C:\Users\kdw15\Desktop\sumkinect\sumkinect\bin\Debug\sumkinect.exe.config
+C:\Users\kdw15\Desktop\sumkinect\sumkinect\bin\Debug\sumkinect.exe
+C:\Users\kdw15\Desktop\sumkinect\sumkinect\bin\Debug\sumkinect.pdb
+C:\Users\kdw15\Desktop\sumkinect\sumkinect\obj\Debug\sumkinect.csprojAssemblyReference.cache
+C:\Users\kdw15\Desktop\sumkinect\sumkinect\obj\Debug\MainWindow.g.cs
+C:\Users\kdw15\Desktop\sumkinect\sumkinect\obj\Debug\App.g.cs
+C:\Users\kdw15\Desktop\sumkinect\sumkinect\obj\Debug\sumkinect_MarkupCompile.cache
+C:\Users\kdw15\Desktop\sumkinect\sumkinect\obj\Debug\sumkinect_MarkupCompile.lref
+C:\Users\kdw15\Desktop\sumkinect\sumkinect\obj\Debug\MainWindow.baml
+C:\Users\kdw15\Desktop\sumkinect\sumkinect\obj\Debug\sumkinect.g.resources
+C:\Users\kdw15\Desktop\sumkinect\sumkinect\obj\Debug\sumkinect.Properties.Resources.resources
+C:\Users\kdw15\Desktop\sumkinect\sumkinect\obj\Debug\sumkinect.csproj.GenerateResource.cache
+C:\Users\kdw15\Desktop\sumkinect\sumkinect\obj\Debug\sumkinect.csproj.CoreCompileInputs.cache
+C:\Users\kdw15\Desktop\sumkinect\sumkinect\obj\Debug\sumkinect.exe
+C:\Users\kdw15\Desktop\sumkinect\sumkinect\obj\Debug\sumkinect.pdb
+C:\Users\kdw15\Desktop\sumkinect\sumkinect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\kdw15\Desktop\sumkinect\sumkinect\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\kdw15\Desktop\sumkinect\sumkinect\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\kdw15\Desktop\sumkinect\sumkinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\kdw15\Desktop\sumkinect\sumkinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\kdw15\Desktop\sumkinect\sumkinect\bin\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\kdw15\Desktop\sumkinect\sumkinect\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\kdw15\Desktop\sumkinect\sumkinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\kdw15\Desktop\sumkinect\sumkinect\obj\Debug\sumkinect.csproj.CopyComplete
+C:\Users\admin\Desktop\sumkinect\sumkinect\bin\Debug\sumkinect.exe.config
+C:\Users\admin\Desktop\sumkinect\sumkinect\bin\Debug\sumkinect.exe
+C:\Users\admin\Desktop\sumkinect\sumkinect\bin\Debug\sumkinect.pdb
+C:\Users\admin\Desktop\sumkinect\sumkinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\admin\Desktop\sumkinect\sumkinect\bin\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\admin\Desktop\sumkinect\sumkinect\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\admin\Desktop\sumkinect\sumkinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\admin\Desktop\sumkinect\sumkinect\obj\Debug\sumkinect.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\sumkinect\sumkinect\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\sumkinect\sumkinect\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\sumkinect\sumkinect\obj\Debug\sumkinect_MarkupCompile.cache
+C:\Users\admin\Desktop\sumkinect\sumkinect\obj\Debug\sumkinect_MarkupCompile.lref
+C:\Users\admin\Desktop\sumkinect\sumkinect\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\sumkinect\sumkinect\obj\Debug\sumkinect.g.resources
+C:\Users\admin\Desktop\sumkinect\sumkinect\obj\Debug\sumkinect.Properties.Resources.resources
+C:\Users\admin\Desktop\sumkinect\sumkinect\obj\Debug\sumkinect.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\sumkinect\sumkinect\obj\Debug\sumkinect.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\sumkinect\sumkinect\obj\Debug\sumkinect.csproj.CopyComplete
+C:\Users\admin\Desktop\sumkinect\sumkinect\obj\Debug\sumkinect.exe
+C:\Users\admin\Desktop\sumkinect\sumkinect\obj\Debug\sumkinect.pdb
+C:\Users\kdw15\Desktop\sumkinect1\sumkinect\bin\Debug\sumkinect.exe.config
+C:\Users\kdw15\Desktop\sumkinect1\sumkinect\bin\Debug\sumkinect.exe
+C:\Users\kdw15\Desktop\sumkinect1\sumkinect\bin\Debug\sumkinect.pdb
+C:\Users\kdw15\Desktop\sumkinect1\sumkinect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\kdw15\Desktop\sumkinect1\sumkinect\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\kdw15\Desktop\sumkinect1\sumkinect\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\kdw15\Desktop\sumkinect1\sumkinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\kdw15\Desktop\sumkinect1\sumkinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\kdw15\Desktop\sumkinect1\sumkinect\bin\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\kdw15\Desktop\sumkinect1\sumkinect\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\kdw15\Desktop\sumkinect1\sumkinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\kdw15\Desktop\sumkinect1\sumkinect\obj\Debug\sumkinect.csprojAssemblyReference.cache
+C:\Users\kdw15\Desktop\sumkinect1\sumkinect\obj\Debug\MainWindow.g.cs
+C:\Users\kdw15\Desktop\sumkinect1\sumkinect\obj\Debug\App.g.cs
+C:\Users\kdw15\Desktop\sumkinect1\sumkinect\obj\Debug\sumkinect_MarkupCompile.cache
+C:\Users\kdw15\Desktop\sumkinect1\sumkinect\obj\Debug\sumkinect_MarkupCompile.lref
+C:\Users\kdw15\Desktop\sumkinect1\sumkinect\obj\Debug\MainWindow.baml
+C:\Users\kdw15\Desktop\sumkinect1\sumkinect\obj\Debug\sumkinect.g.resources
+C:\Users\kdw15\Desktop\sumkinect1\sumkinect\obj\Debug\sumkinect.Properties.Resources.resources
+C:\Users\kdw15\Desktop\sumkinect1\sumkinect\obj\Debug\sumkinect.csproj.GenerateResource.cache
+C:\Users\kdw15\Desktop\sumkinect1\sumkinect\obj\Debug\sumkinect.csproj.CoreCompileInputs.cache
+C:\Users\kdw15\Desktop\sumkinect1\sumkinect\obj\Debug\sumkinect.csproj.CopyComplete
+C:\Users\kdw15\Desktop\sumkinect1\sumkinect\obj\Debug\sumkinect.exe
+C:\Users\kdw15\Desktop\sumkinect1\sumkinect\obj\Debug\sumkinect.pdb
+C:\Users\kdw15\Desktop\sumkinect1 - 복사본\sumkinect\obj\Debug\sumkinect.csprojAssemblyReference.cache
+C:\Users\kdw15\Desktop\sumkinect1 - 복사본\sumkinect\obj\Debug\MainWindow.g.cs
+C:\Users\kdw15\Desktop\sumkinect1 - 복사본\sumkinect\obj\Debug\App.g.cs
+C:\Users\kdw15\Desktop\sumkinect1 - 복사본\sumkinect\obj\Debug\sumkinect_MarkupCompile.cache
+C:\Users\kdw15\Desktop\sumkinect1 - 복사본\sumkinect\obj\Debug\sumkinect_MarkupCompile.lref
+C:\Users\kdw15\Desktop\sumkinect1 - 복사본\sumkinect\obj\Debug\sumkinect.exe
+C:\Users\kdw15\Desktop\sumkinect1 - 복사본\sumkinect\obj\Debug\sumkinect.pdb
+C:\Users\kdw15\Desktop\sumkinect1 - 복사본\sumkinect\bin\Debug\sumkinect.exe.config
+C:\Users\kdw15\Desktop\sumkinect1 - 복사본\sumkinect\bin\Debug\sumkinect.exe
+C:\Users\kdw15\Desktop\sumkinect1 - 복사본\sumkinect\bin\Debug\sumkinect.pdb
+C:\Users\kdw15\Desktop\sumkinect1 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\kdw15\Desktop\sumkinect1 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\kdw15\Desktop\sumkinect1 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\kdw15\Desktop\sumkinect1 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\kdw15\Desktop\sumkinect1 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\kdw15\Desktop\sumkinect1 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\kdw15\Desktop\sumkinect1 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\kdw15\Desktop\sumkinect1 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\kdw15\Desktop\sumkinect1 - 복사본\sumkinect\obj\Debug\MainWindow.baml
+C:\Users\kdw15\Desktop\sumkinect1 - 복사본\sumkinect\obj\Debug\sumkinect.g.resources
+C:\Users\kdw15\Desktop\sumkinect1 - 복사본\sumkinect\obj\Debug\sumkinect.Properties.Resources.resources
+C:\Users\kdw15\Desktop\sumkinect1 - 복사본\sumkinect\obj\Debug\sumkinect.csproj.GenerateResource.cache
+C:\Users\kdw15\Desktop\sumkinect1 - 복사본\sumkinect\obj\Debug\sumkinect.csproj.CoreCompileInputs.cache
+C:\Users\kdw15\Desktop\sumkinect1 - 복사본\sumkinect\obj\Debug\sumkinect.csproj.CopyComplete
+C:\Users\admin\Desktop\sumkinect1 - 복사본\sumkinect\bin\Debug\sumkinect.exe.config
+C:\Users\admin\Desktop\sumkinect1 - 복사본\sumkinect\bin\Debug\sumkinect.exe
+C:\Users\admin\Desktop\sumkinect1 - 복사본\sumkinect\bin\Debug\sumkinect.pdb
+C:\Users\admin\Desktop\sumkinect1 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\admin\Desktop\sumkinect1 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\admin\Desktop\sumkinect1 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\admin\Desktop\sumkinect1 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\admin\Desktop\sumkinect1 - 복사본\sumkinect\obj\Debug\sumkinect.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\sumkinect1 - 복사본\sumkinect\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\sumkinect1 - 복사본\sumkinect\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\sumkinect1 - 복사본\sumkinect\obj\Debug\sumkinect_MarkupCompile.cache
+C:\Users\admin\Desktop\sumkinect1 - 복사본\sumkinect\obj\Debug\sumkinect_MarkupCompile.lref
+C:\Users\admin\Desktop\sumkinect1 - 복사본\sumkinect\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\sumkinect1 - 복사본\sumkinect\obj\Debug\sumkinect.g.resources
+C:\Users\admin\Desktop\sumkinect1 - 복사본\sumkinect\obj\Debug\sumkinect.Properties.Resources.resources
+C:\Users\admin\Desktop\sumkinect1 - 복사본\sumkinect\obj\Debug\sumkinect.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\sumkinect1 - 복사본\sumkinect\obj\Debug\sumkinect.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\sumkinect1 - 복사본\sumkinect\obj\Debug\sumkinect.csproj.CopyComplete
+C:\Users\admin\Desktop\sumkinect1 - 복사본\sumkinect\obj\Debug\sumkinect.exe
+C:\Users\admin\Desktop\sumkinect1 - 복사본\sumkinect\obj\Debug\sumkinect.pdb
+C:\Users\kdw15\Desktop\sumkinect1 - 완성본일까\sumkinect\bin\Debug\sumkinect.exe.config
+C:\Users\kdw15\Desktop\sumkinect1 - 완성본일까\sumkinect\bin\Debug\sumkinect.exe
+C:\Users\kdw15\Desktop\sumkinect1 - 완성본일까\sumkinect\bin\Debug\sumkinect.pdb
+C:\Users\kdw15\Desktop\sumkinect1 - 완성본일까\sumkinect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\kdw15\Desktop\sumkinect1 - 완성본일까\sumkinect\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\kdw15\Desktop\sumkinect1 - 완성본일까\sumkinect\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\kdw15\Desktop\sumkinect1 - 완성본일까\sumkinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\kdw15\Desktop\sumkinect1 - 완성본일까\sumkinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\kdw15\Desktop\sumkinect1 - 완성본일까\sumkinect\bin\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\kdw15\Desktop\sumkinect1 - 완성본일까\sumkinect\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\kdw15\Desktop\sumkinect1 - 완성본일까\sumkinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\kdw15\Desktop\sumkinect1 - 완성본일까\sumkinect\obj\Debug\sumkinect.csprojAssemblyReference.cache
+C:\Users\kdw15\Desktop\sumkinect1 - 완성본일까\sumkinect\obj\Debug\MainWindow.g.cs
+C:\Users\kdw15\Desktop\sumkinect1 - 완성본일까\sumkinect\obj\Debug\App.g.cs
+C:\Users\kdw15\Desktop\sumkinect1 - 완성본일까\sumkinect\obj\Debug\sumkinect_MarkupCompile.cache
+C:\Users\kdw15\Desktop\sumkinect1 - 완성본일까\sumkinect\obj\Debug\sumkinect_MarkupCompile.lref
+C:\Users\kdw15\Desktop\sumkinect1 - 완성본일까\sumkinect\obj\Debug\MainWindow.baml
+C:\Users\kdw15\Desktop\sumkinect1 - 완성본일까\sumkinect\obj\Debug\sumkinect.g.resources
+C:\Users\kdw15\Desktop\sumkinect1 - 완성본일까\sumkinect\obj\Debug\sumkinect.Properties.Resources.resources
+C:\Users\kdw15\Desktop\sumkinect1 - 완성본일까\sumkinect\obj\Debug\sumkinect.csproj.GenerateResource.cache
+C:\Users\kdw15\Desktop\sumkinect1 - 완성본일까\sumkinect\obj\Debug\sumkinect.csproj.CoreCompileInputs.cache
+C:\Users\kdw15\Desktop\sumkinect1 - 완성본일까\sumkinect\obj\Debug\sumkinect.csproj.CopyComplete
+C:\Users\kdw15\Desktop\sumkinect1 - 완성본일까\sumkinect\obj\Debug\sumkinect.exe
+C:\Users\kdw15\Desktop\sumkinect1 - 완성본일까\sumkinect\obj\Debug\sumkinect.pdb
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까\sumkinect\bin\Debug\sumkinect.exe.config
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까\sumkinect\bin\Debug\sumkinect.exe
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까\sumkinect\bin\Debug\sumkinect.pdb
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까\sumkinect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까\sumkinect\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까\sumkinect\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까\sumkinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까\sumkinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까\sumkinect\bin\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까\sumkinect\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까\sumkinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까\sumkinect\obj\Debug\sumkinect.csprojAssemblyReference.cache
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까\sumkinect\obj\Debug\MainWindow.g.cs
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까\sumkinect\obj\Debug\App.g.cs
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까\sumkinect\obj\Debug\sumkinect_MarkupCompile.cache
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까\sumkinect\obj\Debug\sumkinect_MarkupCompile.lref
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까\sumkinect\obj\Debug\MainWindow.baml
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까\sumkinect\obj\Debug\sumkinect.g.resources
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까\sumkinect\obj\Debug\sumkinect.Properties.Resources.resources
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까\sumkinect\obj\Debug\sumkinect.csproj.GenerateResource.cache
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까\sumkinect\obj\Debug\sumkinect.csproj.CoreCompileInputs.cache
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까\sumkinect\obj\Debug\sumkinect.csproj.CopyComplete
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까\sumkinect\obj\Debug\sumkinect.exe
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까\sumkinect\obj\Debug\sumkinect.pdb
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\bin\Debug\sumkinect.exe.config
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\bin\Debug\sumkinect.exe
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\bin\Debug\sumkinect.pdb
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\obj\Debug\sumkinect.csprojAssemblyReference.cache
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\obj\Debug\MainWindow.g.cs
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\obj\Debug\App.g.cs
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\obj\Debug\sumkinect_MarkupCompile.cache
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\obj\Debug\sumkinect_MarkupCompile.lref
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\obj\Debug\MainWindow.baml
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\obj\Debug\sumkinect.g.resources
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\obj\Debug\sumkinect.Properties.Resources.resources
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\obj\Debug\sumkinect.csproj.GenerateResource.cache
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\obj\Debug\sumkinect.csproj.CoreCompileInputs.cache
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\obj\Debug\sumkinect.csproj.CopyComplete
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\obj\Debug\sumkinect.exe
+C:\Users\kdw15\Desktop\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\obj\Debug\sumkinect.pdb
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\obj\Debug\sumkinect.csprojAssemblyReference.cache
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\obj\Debug\MainWindow.g.cs
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\obj\Debug\App.g.cs
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\obj\Debug\sumkinect_MarkupCompile.cache
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\obj\Debug\sumkinect_MarkupCompile.lref
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\obj\Debug\sumkinect.exe
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\obj\Debug\sumkinect.pdb
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\bin\Debug\sumkinect.exe.config
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\bin\Debug\sumkinect.exe
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\bin\Debug\sumkinect.pdb
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.dll
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Fusion.dll
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Tools.dll
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.xml
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Fusion.xml
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Tools.xml
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\obj\Debug\MainWindow.baml
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\obj\Debug\sumkinect.g.resources
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\obj\Debug\sumkinect.Properties.Resources.resources
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\obj\Debug\sumkinect.csproj.GenerateResource.cache
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\obj\Debug\sumkinect.csproj.CoreCompileInputs.cache
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본\sumkinect\obj\Debug\sumkinect.csproj.CopyComplete
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\bin\Debug\sumkinect.exe.config
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\bin\Debug\sumkinect.exe
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\bin\Debug\sumkinect.pdb
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.dll
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Fusion.dll
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Tools.dll
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.xml
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Fusion.xml
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Tools.xml
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\obj\Debug\sumkinect.csprojAssemblyReference.cache
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\obj\Debug\MainWindow.g.cs
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\obj\Debug\App.g.cs
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\obj\Debug\sumkinect_MarkupCompile.cache
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\obj\Debug\sumkinect_MarkupCompile.lref
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\obj\Debug\MainWindow.baml
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\obj\Debug\sumkinect.g.resources
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\obj\Debug\sumkinect.Properties.Resources.resources
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\obj\Debug\sumkinect.csproj.GenerateResource.cache
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\obj\Debug\sumkinect.csproj.CoreCompileInputs.cache
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\obj\Debug\sumkinect.csproj.CopyComplete
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\obj\Debug\sumkinect.exe
+D:\연습하는c#\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\obj\Debug\sumkinect.pdb
+D:\개인파일\개인공부파일\2019아웃풋-kinect\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\bin\Debug\sumkinect.exe.config
+D:\개인파일\개인공부파일\2019아웃풋-kinect\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\bin\Debug\sumkinect.exe
+D:\개인파일\개인공부파일\2019아웃풋-kinect\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\bin\Debug\sumkinect.pdb
+D:\개인파일\개인공부파일\2019아웃풋-kinect\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.xml
+D:\개인파일\개인공부파일\2019아웃풋-kinect\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Fusion.xml
+D:\개인파일\개인공부파일\2019아웃풋-kinect\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Tools.xml
+D:\개인파일\개인공부파일\2019아웃풋-kinect\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+D:\개인파일\개인공부파일\2019아웃풋-kinect\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\obj\Debug\sumkinect.csprojAssemblyReference.cache
+D:\개인파일\개인공부파일\2019아웃풋-kinect\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\obj\Debug\MainWindow.g.cs
+D:\개인파일\개인공부파일\2019아웃풋-kinect\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\obj\Debug\App.g.cs
+D:\개인파일\개인공부파일\2019아웃풋-kinect\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\obj\Debug\sumkinect_MarkupCompile.cache
+D:\개인파일\개인공부파일\2019아웃풋-kinect\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\obj\Debug\sumkinect_MarkupCompile.lref
+D:\개인파일\개인공부파일\2019아웃풋-kinect\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\obj\Debug\MainWindow.baml
+D:\개인파일\개인공부파일\2019아웃풋-kinect\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\obj\Debug\sumkinect.g.resources
+D:\개인파일\개인공부파일\2019아웃풋-kinect\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\obj\Debug\sumkinect.Properties.Resources.resources
+D:\개인파일\개인공부파일\2019아웃풋-kinect\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\obj\Debug\sumkinect.csproj.GenerateResource.cache
+D:\개인파일\개인공부파일\2019아웃풋-kinect\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\obj\Debug\sumkinect.csproj.CoreCompileInputs.cache
+D:\개인파일\개인공부파일\2019아웃풋-kinect\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\obj\Debug\sumkinect.csproj.CopyComplete
+D:\개인파일\개인공부파일\2019아웃풋-kinect\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\obj\Debug\sumkinect.exe
+D:\개인파일\개인공부파일\2019아웃풋-kinect\아웃풋\sumkinect1 - 완성본일까 - 복사본 - 복사본\sumkinect\obj\Debug\sumkinect.pdb
+C:\Users\kdw15\Desktop\sumkinect1 - 끄아아악\sumkinect\bin\Debug\sumkinect.exe.config
+C:\Users\kdw15\Desktop\sumkinect1 - 끄아아악\sumkinect\bin\Debug\sumkinect.exe
+C:\Users\kdw15\Desktop\sumkinect1 - 끄아아악\sumkinect\bin\Debug\sumkinect.pdb
+C:\Users\kdw15\Desktop\sumkinect1 - 끄아아악\sumkinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\kdw15\Desktop\sumkinect1 - 끄아아악\sumkinect\bin\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\kdw15\Desktop\sumkinect1 - 끄아아악\sumkinect\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\kdw15\Desktop\sumkinect1 - 끄아아악\sumkinect\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\kdw15\Desktop\sumkinect1 - 끄아아악\sumkinect\obj\Debug\sumkinect.csprojAssemblyReference.cache
+C:\Users\kdw15\Desktop\sumkinect1 - 끄아아악\sumkinect\obj\Debug\MainWindow.g.cs
+C:\Users\kdw15\Desktop\sumkinect1 - 끄아아악\sumkinect\obj\Debug\App.g.cs
+C:\Users\kdw15\Desktop\sumkinect1 - 끄아아악\sumkinect\obj\Debug\sumkinect_MarkupCompile.cache
+C:\Users\kdw15\Desktop\sumkinect1 - 끄아아악\sumkinect\obj\Debug\sumkinect_MarkupCompile.lref
+C:\Users\kdw15\Desktop\sumkinect1 - 끄아아악\sumkinect\obj\Debug\MainWindow.baml
+C:\Users\kdw15\Desktop\sumkinect1 - 끄아아악\sumkinect\obj\Debug\sumkinect.g.resources
+C:\Users\kdw15\Desktop\sumkinect1 - 끄아아악\sumkinect\obj\Debug\sumkinect.Properties.Resources.resources
+C:\Users\kdw15\Desktop\sumkinect1 - 끄아아악\sumkinect\obj\Debug\sumkinect.csproj.GenerateResource.cache
+C:\Users\kdw15\Desktop\sumkinect1 - 끄아아악\sumkinect\obj\Debug\sumkinect.csproj.CoreCompileInputs.cache
+C:\Users\kdw15\Desktop\sumkinect1 - 끄아아악\sumkinect\obj\Debug\sumkinect.csproj.CopyComplete
+C:\Users\kdw15\Desktop\sumkinect1 - 끄아아악\sumkinect\obj\Debug\sumkinect.exe
+C:\Users\kdw15\Desktop\sumkinect1 - 끄아아악\sumkinect\obj\Debug\sumkinect.pdb
